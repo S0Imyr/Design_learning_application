@@ -1,4 +1,4 @@
-# Design_Learning-Application
+# Conception Agile d'un site de soutien scolaire
 
 Ce dépôt GitHub contient les éléments clés d'un projet Agile de conception d'application de Soutien scolaire.   
 Le site web doit permettre de connecter des élèves en difficulté scolaire avec des tuteurs bénévoles.
